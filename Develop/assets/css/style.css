@@ -14,12 +14,6 @@ header {
     color: #ffffff;
 }
 
-/*.header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-}*/
 
 .header h1 {
     display: inline-block;
@@ -30,16 +24,19 @@ header {
     color: #d9dcd6;
 }
 
-.header div {
+/*.header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-}
+}*/
 
 nav ul {
+    margin: 0px;
     list-style-type: none;
+    float: right;
+    background-color: rebeccapurple;
 }
 
 nav ul li {
