@@ -128,7 +128,7 @@ footer {
 /*========  Clear fix CSS ===========*/
 .clearfix::after {
     content: ""; 
-    display: block;
+    display: table;
     clear: both;
     overflow: auto;
 }
