@@ -14,32 +14,23 @@ p {
 }
 /*======== CSS for Header styling ===========*/
 header {
+    margin: 0px;
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS';
     background-color: #2a607c;
     color: #ffffff;
     height: 100px;
 }
-header .title {
+header h1 {
     display: inline-block;
-    font-size: 48px;
     float: left;
-}
-.seoText {
-    color: #d9dcd6;
-}
-.navigation-bar {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 48px;
 }
 header li {
+    padding: 10px;
     display: inline;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    padding: 10px;
 }
 header a {
     color: #ffffff;
@@ -47,6 +38,16 @@ header a {
 }
 header a:hover {
     background-color: black;
+}
+.seoText {
+    color: #d9dcd6;
+}
+.navigation-bar {
+    float: right;
+    padding-top: 15px;
+    margin-right: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
 
 /*========  CSS for content image ===========*/
@@ -61,7 +62,15 @@ section {
     display: inline-block;
     margin: 20px;
 }
-.section-contents {
+section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+section img {
+    max-height: 200px;
+}
+
+.left-side-article-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -69,14 +78,6 @@ section {
     background-color: #0072bb;
     color: #ffffff;
 }
-.section-contents h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-.section-contents img {
-    max-height: 200px;
-}
-
 /*========  CSS for aside styling ===========*/
 aside {
     float: right;
@@ -88,7 +89,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-aside .contents {
+.right-side-article-content {
     margin-bottom: 40px;
     color: #ffffff;
     text-align: center;
