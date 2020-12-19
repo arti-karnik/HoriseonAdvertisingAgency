@@ -19,6 +19,7 @@ Applied various element styling using CSS and styling is organized with semantic
 Added relevant comments in both the html & css files for better readability & understanding of what the code does.
 Tested the webpage to ensure correct layout in MacOS, Windows & different browsers such as Chrome, Edge, IE 11 & Safari.
 <br>
+<br>
 <strong>Purpose: </strong><br>
 Webpage shows information of three basic service which Advertising agency provides:
 1. Search Engine Optimization
