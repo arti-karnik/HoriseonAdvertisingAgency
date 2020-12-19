@@ -1,8 +1,7 @@
 # HoriseonAdvertisingAgency
 
-<strong>Project Summary:</strong>
-
-Online advertisement agency showing agency information
+<strong>Project Summary:</strong> <br>
+WebPage showing information about Advertisement agency
 <div align="left">
    <img src="./assets/images/ss1.png" width="400px"</img> 
   <br>
@@ -25,13 +24,12 @@ Webpage shows information of three basic service which Advertising agency provid
 1. Search Engine Optimization
 2. Online Reputation Management
 3. Social Media Marketing
-
-<strong>Code Installation: </strong>
 <br>
+<strong>Code Installation: </strong>
 $ cd [path_to_save_codebase] <br>
 $ git clone https://github.com/arti-karnik/HoriseonAdvertisingAgency
 Go ahead and make modifications
-
+<br>
 <strong>Contributing to repo:</strong>
 - Fork it https://github.com/arti-karnik/HoriseonAdvertisingAgency
 - Create your local branch 
@@ -42,11 +40,11 @@ git commit -m "<commit message>"
 - Push to the branch and create a PR
 git push 
 Create PR for review and merge code.
-   
+<br> 
 <strong>Github Profile: </strong>
 <br>
 https://github.com/arti-karnik
-
+<br>
 <strong>Application Live URL:</strong> <br>
 https://arti-karnik.github.io/HoriseonAdvertisingAgency/
 
