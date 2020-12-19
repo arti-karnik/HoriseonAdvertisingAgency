@@ -1,14 +1,14 @@
 # HoriseonAdvertisingAgency
 
+<strong>Project Summary:</strong>
 
-<strong>Horiseon Advertising Agency:  </strong>
+Online advertisement agency showing agency information
 <div align="left">
    <img src="./assets/images/ss1.png" width="400px"</img> 
   <br>
   <img src="./assets/images/ss2.png" width="400px"</img> 
 </div>
 
-Online advertisement agency showing agency information
 <br>
 <br>
 <strong>Description:</strong>
