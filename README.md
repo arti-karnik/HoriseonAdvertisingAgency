@@ -20,30 +20,36 @@ Tested the webpage to ensure correct layout in MacOS, Windows & different browse
 <br>
 <br>
 <strong>Purpose: </strong><br>
-Webpage shows information of three basic service which Advertising agency provides:
+Webpage shows information of three basic service which Advertising agency provides: <br>
 1. Search Engine Optimization
+<br>
 2. Online Reputation Management
+<br>
 3. Social Media Marketing
 <br>
-<strong>Code Installation: </strong>
+<br>
+<strong>Code Installation: </strong> 
 $ cd [path_to_save_codebase] <br>
 $ git clone https://github.com/arti-karnik/HoriseonAdvertisingAgency
 Go ahead and make modifications
 <br>
-<strong>Contributing to repo:</strong>
-- Fork it https://github.com/arti-karnik/HoriseonAdvertisingAgency
-- Create your local branch 
-git checkout -b <branchname>
-- Add changes and add it to your local branch
-- Commit your changes
-git commit -m "<commit message>"
-- Push to the branch and create a PR
-git push 
+<br>
+<strong>Contributing to repo:</strong> <br>
+- Fork it https://github.com/arti-karnik/HoriseonAdvertisingAgency <br>
+- Create your local branch <br>
+git checkout -b <branchname> <br>
+- Add changes and add it to your local branch <br>
+- Commit your changes <br>
+git commit -m "<commit message>" <br>
+- Push to the branch and create a PR <br>
+git push <br>
 Create PR for review and merge code.
 <br> 
+<br>
 <strong>Github Profile: </strong>
 <br>
 https://github.com/arti-karnik
+<br>
 <br>
 <strong>Application Live URL:</strong> <br>
 https://arti-karnik.github.io/HoriseonAdvertisingAgency/
