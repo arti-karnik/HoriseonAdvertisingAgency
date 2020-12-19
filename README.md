@@ -28,7 +28,7 @@ Webpage shows information of three basic service which Advertising agency provid
 3. Social Media Marketing
 <br>
 <br>
-<strong>Code Installation: </strong> 
+<strong>Code Installation: </strong> <br>
 $ cd [path_to_save_codebase] <br>
 $ git clone https://github.com/arti-karnik/HoriseonAdvertisingAgency
 <br>
