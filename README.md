@@ -18,7 +18,12 @@ Incorporated images, static links that highlight sections of the same page. Adde
 Applied various element styling using CSS and styling is organized with semantic structure & ability to ensure the webpage is visually pleasing & well laid out.
 Added relevant comments in both the html & css files for better readability & understanding of what the code does.
 Tested the webpage to ensure correct layout in MacOS, Windows & different browsers such as Chrome, Edge, IE 11 & Safari.
-
+<br>
+<strong>Purpose: </strong><br>
+Webpage shows information of three basic service which Advertising agency provides:
+1. Search Engine Optimization
+2. Online Reputation Management
+3. Social Media Marketing
 
 <strong>Code Installation: </strong>
 <br>
