@@ -2,7 +2,7 @@
 
 
 <strong>Horiseon Advertising Agency:  </strong>
-<div align="center">
+<div align="left">
    <img src="./assets/images/ss1.png" width="400px"</img> 
   <br>
   <img src="./assets/images/ss2.png" width="400px"</img> 
